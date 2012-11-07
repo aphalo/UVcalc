@@ -1,0 +1,11 @@
+Package: UVcalc
+Type: Package
+Title: Functions for calculating irradiances from spectral irradiances
+Version: 1.0.4
+Date: 2012-05-04
+Author: Pedro J. Aphalo
+Maintainer: Pedro J. Aphalo <pedro.aphalo@helsinki.fi>
+Description: This package provides functions for calculating irradiances or doses, both unweighted and weighted with BSWFs (biological spectral weighting functions).
+License: GPL-3
+LazyLoad: yes
+LazyData: yes
